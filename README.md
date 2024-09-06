@@ -14,7 +14,7 @@
 A simple Windows form application to convert quickly between Celsius, Fahrenheit and Kelvin.
 
 # Deployments
- [Beta V0.0.01](https://github.com/Pmacdon15/Temp-Calaulatour-CSharp/releases/tag/Beta)
+ [Beta V 0.0.01](https://github.com/Pmacdon15/Temp-Calaulatour-CSharp/releases/tag/Beta)
 
 # Featuers
 ## Current Features
