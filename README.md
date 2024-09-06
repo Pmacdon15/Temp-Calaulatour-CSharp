@@ -9,7 +9,7 @@
   - [Current Features](#Current-Features)
 
  # Description
-This application is a simple temperature converter/calculator to quickly convert between Celsius Fahrenheit and Kelvin. It is made in C# and Windows forms.
+ [Beta V0.0.01](https://github.com/Pmacdon15/Temp-Calaulatour-CSharp/releases/tag/Beta)
 
 # Deployments
 Beta version coming soon
