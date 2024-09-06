@@ -1,6 +1,6 @@
 # Temperature Converter calculator
 
-<img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> 
+<img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="Windows 10" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
 
 # Table of Contents
 - [Description](#Description)
@@ -9,10 +9,10 @@
   - [Current Features](#Current-Features)
 
  # Description
- [Beta V0.0.01](https://github.com/Pmacdon15/Temp-Calaulatour-CSharp/releases/tag/Beta)
+A simple Windows form application to convert quickly between Celsius, Fahrenheit and Kelvin.
 
 # Deployments
-Beta version coming soon
+ [Beta V0.0.01](https://github.com/Pmacdon15/Temp-Calaulatour-CSharp/releases/tag/Beta)
 
 # Featuers
 ## Current Features
